@@ -1,6 +1,6 @@
 # Character Frequency Map: Take a string input and return a dictionary
 # showing exactly how many times each character appears.
-user_input = "hello world and this is a storry about a cute girl named kambria"
+user_input = "hello world"
 def freq_map_space(user_input):
     freq_dict = {}
     for let in user_input:
